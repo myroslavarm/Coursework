@@ -1,4 +1,4 @@
-private protocol
+as yet unclassified
 allDescriptionWordOccurrences
 	| data bag |
 	data := self getData.

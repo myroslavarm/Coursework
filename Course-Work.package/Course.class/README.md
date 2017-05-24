@@ -1,0 +1,1 @@
+Class that represent simple course on Udacity.

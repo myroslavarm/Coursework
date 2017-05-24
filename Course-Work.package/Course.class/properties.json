@@ -1,11 +1,13 @@
 {
-	"commentStamp" : "OlesDobosevych 5/24/2017 09:47",
+	"commentStamp" : "OlesDobosevych 5/24/2017 09:48",
 	"super" : "Object",
 	"category" : "Course-Work",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
-	"name" : "UdacityAnalyser",
+	"instvars" : [
+		"description"
+	],
+	"name" : "Course",
 	"type" : "normal"
 }
