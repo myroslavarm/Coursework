@@ -1,5 +1,5 @@
 converting
-toOrderCollection
+toOrderCollection: anOrderedCollection
 	"Convert sentence to vector"
 
 	^ NLPsentences tokenizeLeavePeriods: description 
