@@ -5,5 +5,5 @@ allDescriptionWordOccurrences
 
 	bag := Bag new.
 	(data at: 'courses') do: [ :course |
-    	bag addAll: (course at: 'short_summary') asLowercase substrings].
+    	bag add: (course at: 'short_summary')].
 	^ bag

@@ -1,4 +1,4 @@
-private protocol
+as yet unclassified
 getData
    "Retrieve all course from Udacity API and return OrderedCollection of courses."
 	^ STON fromString: (ZnClient new
