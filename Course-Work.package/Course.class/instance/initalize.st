@@ -1,3 +1,4 @@
 initialization
 initalize
-	self description = ''
+	self description = ''.
+	self title = ''

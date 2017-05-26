@@ -5,7 +5,9 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"courseCatalog"
+	],
 	"name" : "UdacityAnalyser",
 	"type" : "normal"
 }

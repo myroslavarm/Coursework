@@ -1,0 +1,3 @@
+loading
+courseCatalog
+	^ courseCatalog

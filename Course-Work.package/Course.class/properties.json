@@ -6,7 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"description"
+		"description",
+		"title"
 	],
 	"name" : "Course",
 	"type" : "normal"
