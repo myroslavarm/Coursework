@@ -1,5 +1,5 @@
 {
-	"commentStamp" : "OlesDobosevych 5/24/2017 09:48",
+	"commentStamp" : "",
 	"super" : "Object",
 	"category" : "Course-Work",
 	"classinstvars" : [ ],
@@ -7,9 +7,8 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"description",
-		"title",
-		"homepage"
+		"title"
 	],
-	"name" : "Course",
+	"name" : "SentenceAnalyser",
 	"type" : "normal"
 }
